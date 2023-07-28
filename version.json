@@ -6,7 +6,7 @@
    },
    {
       "type":"Esp-Calor-Dual-P",
-      "version":"1.0",
-      "url":"https://raw.githubusercontent.com/Proyectossole/Plataforma-dual/main/Esp-Calor-Dual-P.bin"
+      "version":"1.1",
+      "url":"https://raw.githubusercontent.com/Proyectossole/Plataforma-dual/main/Esp-Calor-Dual-P.ino.bin"
    }
 ]
