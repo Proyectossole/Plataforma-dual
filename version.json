@@ -2,11 +2,11 @@
    {
       "type":"Esp-Frio-Dual-P",
       "version":"1.0",
-      "url":"http://192.168.0.100/fota/esp32-fota-http-2.bin"
+      "url":"https://raw.githubusercontent.com/Proyectossole/Plataforma-dual/main/Esp-Frio-Dual-P.bin"
    },
    {
       "type":"Esp-Calor-Dual-P",
       "version":"1.0",
-      "url":"http://192.168.0.100/fota/esp32-other-hardware.bin"
+      "url":"https://raw.githubusercontent.com/Proyectossole/Plataforma-dual/main/Esp-Calor-Dual-P.bin"
    }
 ]
