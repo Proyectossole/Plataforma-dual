@@ -1,4 +1,4 @@
-# Plataforma-dual
+#Plataforma-dual
 actualización para los modulos de calor y frio que maneja las dos plataformas.
 Versiones:
 
